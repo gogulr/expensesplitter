@@ -1,0 +1,4 @@
+A spent 300 rupees for Lunch for B and D 
+B spent 900 rupees for Movie for A and C 
+C spent 600 rupees for Dinner for A, B and D
+D spent 300 rupees for Snack for B and C
